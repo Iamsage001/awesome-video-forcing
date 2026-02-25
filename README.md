@@ -50,6 +50,7 @@ This repository tracks papers and implementations that directly address this iss
 | 2026 | **LIVE: Long-horizon Interactive Video World Modeling** | [arXiv:2602.03747](https://arxiv.org/abs/2602.03747) | [Code](https://github.com/Junchao-cs/LIVE) · [Project](https://junchao-cs.github.io/LIVE-demo/) | Cycle-consistency (forward rollout + reverse recovery) to control long-horizon error accumulation |
 | 2026 | **Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention** | [arXiv:2602.04789](https://arxiv.org/abs/2602.04789) | [Code](https://github.com/chengtao-lv/LightForcing) | Sparse attention for autoregressive video diffusion via Chunk-Aware Growth + Hierarchical Sparse Attention |
 | 2026 | **Context Forcing: Consistent Autoregressive Video Generation with Long Context** | [arXiv:2602.06028](https://arxiv.org/abs/2602.06028) | [Code](https://github.com/TIGER-AI-Lab/Context-Forcing) · [Project](https://chenshuo20.github.io/Context_Forcing/) | Aligning student context length to a long-context teacher + Slow-Fast Memory for improved long-video consistency |
+| 2026 | **Past- and Future-Informed KV Cache Policy with Salience Estimation in Autoregressive Video Diffusion** | [arXiv:2601.21896](https://arxiv.org/abs/2601.21896) | - | Salience-guided KV cache management (PaFu-KV) for AR video diffusion; distills bidirectional teacher signals via a lightweight SEH to retain top-k informative tokens for better long-horizon quality/efficiency trade-off |
 
 ---
 

